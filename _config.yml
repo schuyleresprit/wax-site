@@ -30,7 +30,7 @@ logo:             '/assets/logo.png'
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-permalink: 'pretty'
+permalink: /wax-site/
 sass:
   style: compressed
 exclude:
@@ -64,7 +64,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  caribbeanbooksexhibit: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'caribbeanbooksexhibit_item' # the layout for the pages to use
     metadata:
