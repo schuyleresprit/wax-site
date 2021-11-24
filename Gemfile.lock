@@ -56,7 +56,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.2.1)
+    listen (3.7.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
@@ -76,7 +76,7 @@ GEM
     public_suffix (4.0.6)
     rainbow (3.0.0)
     rake (13.0.1)
-    rb-fsevent (0.10.4)
+    rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
@@ -100,6 +100,7 @@ GEM
       rake (~> 13.0)
       safe_yaml (~> 1.0)
       wax_iiif (~> 0.2)
+    webrick (1.7.0)
     yell (2.2.2)
 
 PLATFORMS
@@ -107,9 +108,12 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.15)
+  jekyll (= 4.1.1)
   kramdown-parser-gfm
+  listen (~> 3.7)
   tzinfo-data
   wax_theme!
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.2.32
