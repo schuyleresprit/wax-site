@@ -12,3 +12,4 @@ gem 'kramdown-parser-gfm'
 
 gem "webrick", "~> 1.7"
 gem 'listen', '~> 3.7'
+gem 'html-proofer'
