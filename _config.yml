@@ -105,23 +105,23 @@ menu:
   - label: 'About'
     sub:
       - label: 'Wax'
-        link: '/about/'
+        link: '/wax-site/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
-        link: '/credits/'
+        link: '/wax-site/credits/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
+        link: '/wax-site/exhibits/a/'
       - label: 'Inline Image References'
-        link: '/exhibits/b/'
+        link: '/wax-site/exhibits/b/'
   - label: 'Browse'
-    link: '/collection/'
+    link: '/wax-site/collection/'
   - label: 'Search'
-    link: '/search/'
+    link: '/wax-site/search/'
   - label: 'Reuse'
-    link: '/reuse/'
+    link: '/wax-site/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -133,11 +133,11 @@ footer:
     - label: 'GitHub'
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
-      link: '/credits'
+      link: '/wax-site/credits'
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/wax-site/img/logo.png'
 
 encoding: utf-8
 # FIN
