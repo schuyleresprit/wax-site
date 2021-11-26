@@ -21,7 +21,7 @@
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://schuyleresprit.github.io'
-baseurl:          ''
+baseurl:          '/wax-site'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -30,7 +30,7 @@ logo:             '/assets/logo.png'
 # ---------------------------------------------------------------
 # Best not to mess with these unless you know what you're doing!
 
-permalink: '/wax-site/'
+permalink:
 sass:
   style: compressed
 exclude:
