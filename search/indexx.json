@@ -1,0 +1,115 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj1",
+    "label": "Annie John",
+    "artist": "Jamaica Kincaid",
+    "_date": "1983",
+    "location": "Antigua",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj1",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj10",
+    "label": "A Tempest",
+    "artist": "Aime Cesaire",
+    "_date": "1977",
+    "location": "Martinique",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj10",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj2",
+    "label": "Breath Eyes Memory",
+    "artist": "Edwidge Danticat",
+    "_date": "1994",
+    "location": "Haiti",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj2",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj3",
+    "label": "The Dragon Can't Dance",
+    "artist": "Earl Lovelace",
+    "_date": "1979",
+    "location": "Trinidad",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj3",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj4",
+    "label": "No Telephone To Heaven",
+    "artist": "Michelle Cliff",
+    "_date": "1983",
+    "location": "Jamaica",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj4",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj5",
+    "label": "Wide Sargasso Sea",
+    "artist": "Jean Rhys",
+    "_date": "1966",
+    "location": "Dominica",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj5",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj6",
+    "label": "Crossing the Mangrove",
+    "artist": "Maryse Condé",
+    "_date": "1987",
+    "location": "Guadeloupe",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj6",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj7",
+    "label": "Angel",
+    "artist": "Merle Collins",
+    "_date": "1987",
+    "location": "Grenada",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj7",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj8",
+    "label": "In the Castle of My Skin",
+    "artist": "George Lamming",
+    "_date": "1979",
+    "location": "Barbados",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj8",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj9",
+    "label": "Dream on Monkey Mountain",
+    "artist": "Derek Walcott",
+    "_date": "1970",
+    "location": "St Lucia",
+    "collection": "caribbeanbooksexhibit",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/caribbeanbooksexhibit/obj9",
+    "lunr_id": 9
+  }
+]
