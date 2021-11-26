@@ -113,15 +113,15 @@ menu:
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
-        link: '/wax-site/exhibits/a/'
+        link: '/exhibits/a/'
       - label: 'Inline Image References'
-        link: '/wax-site/exhibits/b/'
+        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
-    link: '/wax-site/search/'
+    link: '/search/'
   - label: 'Reuse'
-    link: '/wax-site/reuse/'
+    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
