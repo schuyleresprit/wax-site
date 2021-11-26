@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /exhibits/
+permalink: /wax-site/exhibits/
 title: Featured Exhibits
 ---
 
