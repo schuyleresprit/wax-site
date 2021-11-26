@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Caribbean Books Exhibit'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://schuyleresprit.github.io'
 baseurl:          '/wax-site'
@@ -117,7 +117,7 @@ menu:
       - label: 'Inline Image References'
         link: '/wax-site/exhibits/b/'
   - label: 'Browse'
-    link: '/wax-site/collection/'
+    link: '/collection/'
   - label: 'Search'
     link: '/wax-site/search/'
   - label: 'Reuse'
