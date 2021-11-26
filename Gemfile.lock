@@ -107,7 +107,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  html-proofer (~> 3.15)
+  html-proofer
   jekyll (= 4.1.1)
   kramdown-parser-gfm
   listen (~> 3.7)
