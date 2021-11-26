@@ -84,15 +84,14 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      caribbeanbooksexhibit:
+      caribbeanbooksexhibit: caribbeanbooksexhibit
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
+          - author
           - location
           - label
           - _date
-          - object_type
-          - current_location
+        
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -119,7 +118,7 @@ menu:
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
-    link: '/search/'
+    link: '/wax-site/search/'
   - label: 'Reuse'
     link: '/reuse/'
 
@@ -133,7 +132,7 @@ footer:
     - label: 'GitHub'
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
-      link: '/wax-site/credits'
+      link: '/credits'
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
