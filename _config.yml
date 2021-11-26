@@ -82,8 +82,8 @@ collections:
 
 search:
   main:
-    index: '/search/index.json' # file the index will get written to
-    collections: caribbeanbooksexhibit
+    index: '/search/indexx.json' # file the index will get written to
+    collections: 
       caribbeanbooksexhibit:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
