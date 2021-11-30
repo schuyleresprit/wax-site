@@ -1,0 +1,23 @@
+I"è
+<div class="search-block">
+  <div class="input-group">
+    <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
+  </div>
+  <div id="results"></div>
+</div>
+
+<script type="text/javascript" src="https://schuyleresprit.github.io/assets/elasticlunr.min.js"></script>
+
+<script type="text/javascript" src="https://schuyleresprit.github.io/assets/search-ui.js"></script>
+
+<script type="text/javascript">
+  var fields    = ["artist","location","label","_date","object_type","current_location"];
+  var indexFile = "https://schuyleresprit.github.io/search/index.json";
+  var url       = "https://schuyleresprit.github.io/";
+
+  $(document).ready(function() {
+    startSearchUI(fields, indexFile, url);
+  });
+</script>
+
+:ET
