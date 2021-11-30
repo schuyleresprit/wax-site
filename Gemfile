@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-gemspec
+.gemspec
 
 # Temporarily pin jekyll to avoid absolute_url bug in 4.2
 gem 'jekyll', '4.1.1'
