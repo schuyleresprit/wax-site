@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj1",
+  "protocol": "http://iiif.io/api/image",
+  "width": 183,
+  "height": 275,
+  "sizes": [
+    {
+      "width": 183,
+      "height": 275
+    },
+    {
+      "width": 250,
+      "height": 376
+    },
+    {
+      "width": 1140,
+      "height": 1713
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
