@@ -1,47 +1,47 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/obj7/manifest.json",
+  "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/obj7/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj7",
-  "thumbnail": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+  "thumbnail": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/sequence/obj7.json",
+      "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/sequence/obj7.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/canvas/obj7.json",
+          "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/canvas/obj7.json",
           "label": "front",
           "width": 586,
           "height": 950,
-          "thumbnail": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+          "thumbnail": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/annotation/obj7.json",
+              "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/annotation/obj7.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7/full/full/0/default.jpg",
+                "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7",
+                  "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 293,
                 "height": 475
               },
-              "on": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/canvas/obj7.json"
+              "on": "http://localhost:4000/wax-site/img/derivatives/iiif/canvas/obj7.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7/full/full/0/default.jpg",
-  "fullwidth": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
+  "full": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7/full/full/0/default.jpg",
+  "fullwidth": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj7/full/1140,/0/default.jpg"
 }
