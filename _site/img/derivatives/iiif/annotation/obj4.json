@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/annotation/obj4.json",
+  "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/annotation/obj4.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
+    "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj4/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj4",
+      "@id": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/images/obj4",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 1548,
     "height": 2370
   },
-  "on": "http://localhost:4000/wax-site/img/derivatives/iiif/canvas/obj4.json",
+  "on": "https://schuyleresprit.github.io/wax-site/img/derivatives/iiif/canvas/obj4.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }
