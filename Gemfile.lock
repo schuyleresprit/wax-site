@@ -88,6 +88,7 @@ DEPENDENCIES
   listen (~> 3.7)
   tzinfo-data
   webrick (~> 1.7)
+  rake
 
 BUNDLED WITH
    2.2.32
