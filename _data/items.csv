@@ -1,11 +1,11 @@
-﻿pid ,label,artist,_date,location
-obj1,Annie John,Jamaica Kincaid,1983,Antigua
-obj2,Breath Eyes Memory,Edwidge Danticat,1994,Haiti
-obj3,The Dragon Can't Dance,Earl Lovelace,1979,Trinidad
-obj4,No Telephone To Heaven,Michelle Cliff,1983,Jamaica
-obj5,Wide Sargasso Sea,Jean Rhys,1966,Dominica
-obj6,Crossing the Mangrove,Maryse Condé,1987,Guadeloupe
-obj7,Angel,Merle Collins,1987,Grenada
-obj8,In the Castle of My Skin,George Lamming,1979,Barbados
-obj9,Dream on Monkey Mountain,Derek Walcott,1970,St. Lucia
-obj10,A Tempest,Aimé Césaire,1977,Martinique
+pid,label,artist,_date,location,order,layout,collection,thumbnail,full
+obj9,Dream on Monkey Mountain,Derek Walcott,1970,St. Lucia,08,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj9/thumbnail.jpg,img/derivatives/simple/obj9/fullwidth.jpg
+obj10,A Tempest,Aimé Césaire,1977,Martinique,09,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj10/thumbnail.jpg,img/derivatives/simple/obj10/fullwidth.jpg
+obj2,Breath Eyes Memory,Edwidge Danticat,1994,Haiti,01,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj2/thumbnail.jpg,img/derivatives/simple/obj2/fullwidth.jpg
+obj3,The Dragon Can't Dance,Earl Lovelace,1979,Trinidad,02,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj3/thumbnail.jpg,img/derivatives/simple/obj3/fullwidth.jpg
+obj4,No Telephone To Heaven,Michelle Cliff,1983,Jamaica,03,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj4/thumbnail.jpg,img/derivatives/simple/obj4/fullwidth.jpg
+obj5,Wide Sargasso Sea,Jean Rhys,1966,Dominica,04,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj5/thumbnail.jpg,img/derivatives/simple/obj5/fullwidth.jpg
+obj6,Crossing the Mangrove,Maryse Condé,1987,Guadeloupe,05,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj6/thumbnail.jpg,img/derivatives/simple/obj6/fullwidth.jpg
+obj7,Angel,Merle Collins,1987,Grenada,06,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj7/thumbnail.jpg,img/derivatives/simple/obj7/fullwidth.jpg
+obj8,In the Castle of My Skin,George Lamming,1979,Barbados,07,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj8/thumbnail.jpg,img/derivatives/simple/obj8/fullwidth.jpg
+obj1,Annie John,Jamaica Kincaid,1983,Antigua,00,caribbeanbooksexhibit_item,caribbeanbooksexhibit,img/derivatives/simple/obj1/thumbnail.jpg,img/derivatives/simple/obj1/fullwidth.jpg
