@@ -21,7 +21,7 @@
 title:            'Caribbean Books Exhibit'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'schuyleresprit.github.io'
-baseurl:          '/wax-site'
+baseurl:          '/wax-site/'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
