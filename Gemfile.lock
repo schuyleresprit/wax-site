@@ -103,6 +103,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
+  http_parser.rb
   jekyll (= 4.1.1)
   kramdown-parser-gfm
   listen (~> 3.7)
