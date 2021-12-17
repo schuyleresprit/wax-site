@@ -1,4 +1,4 @@
-I"´<p><strong>Wax helps you create digital exhibits.</strong> <br />
+I"ž<p><strong>Wax helps you create digital exhibits.</strong> <br />
 A digital exhibit is a collection of curated cultural artifactsâ€”manuscripts, paintings, photographs, sculptures, etcâ€”often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.</p>
 
 <p><strong>Wax is an extensible workflow based on minimal computing principles.</strong><br />
@@ -38,7 +38,7 @@ The Wax workflow starts with making standardized image files and metadata record
 
 <p>From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.</p>
 
-<p><a href="https://schuyleresprit.github.io/wax-site/img/wax_workflow.jpg">
-  <img src="https://schuyleresprit.github.io/wax-site/img/wax_workflow.jpg" />
+<p><a href="http://localhost:4000/wax-site/img/wax_workflow.jpg">
+  <img src="http://localhost:4000/wax-site/img/wax_workflow.jpg" />
 </a></p>
 :ET
