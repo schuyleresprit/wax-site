@@ -20,8 +20,8 @@
 
 title:            'Caribbean Books Exhibit'
 description:      'Minimal Exhibitions with Jekyll'
-url:              ''
-baseurl:          '/wax-site/'
+url:              'localhost'
+baseurl:          ''
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -64,13 +64,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  caribbeanbooksexhibit: # name of collection
+  items: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'caribbeanbooksexhibit_item' # the layout for the pages to use
+    layout: 'items_item' # the layout for the pages to use
     metadata:
       source: 'items.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/caribbeanbooksexhibit' # path to the directory of images within `_data`
+      source: 'raw_images/items' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,7 +84,7 @@ search:
   main:
     index: '/search/indexx.json' # file the index will get written to
     collections:
-      caribbeanbooksexhibit:
+      items:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - label
