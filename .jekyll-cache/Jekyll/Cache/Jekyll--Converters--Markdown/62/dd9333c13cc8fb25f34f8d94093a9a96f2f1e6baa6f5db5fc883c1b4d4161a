@@ -1,4 +1,4 @@
-I"¿
+I"œ
 <div class="search-block">
   <div class="input-group">
     <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
@@ -6,14 +6,14 @@
   <div id="results"></div>
 </div>
 
-<script type="text/javascript" src="http://localhost:4000/wax-site/assets/elasticlunr.min.js"></script>
+<script type="text/javascript" src="http://localhost:4000/assets/elasticlunr.min.js"></script>
 
-<script type="text/javascript" src="http://localhost:4000/wax-site/assets/search-ui.js"></script>
+<script type="text/javascript" src="http://localhost:4000/assets/search-ui.js"></script>
 
 <script type="text/javascript">
   var fields    = ["label","artist","_date","location"];
-  var indexFile = "http://localhost:4000/wax-site/search/indexx.json";
-  var url       = "http://localhost:4000/wax-site";
+  var indexFile = "http://localhost:4000/search/indexx.json";
+  var url       = "http://localhost:4000/";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);

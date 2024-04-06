@@ -1,32 +1,32 @@
 {
-  "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/sequence/obj9.json",
+  "@id": "http://localhost:4000/img/derivatives/iiif/sequence/obj9.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/canvas/obj9.json",
+      "@id": "http://localhost:4000/img/derivatives/iiif/canvas/obj9.json",
       "label": "front",
       "width": 640,
       "height": 1000,
-      "thumbnail": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+      "thumbnail": "http://localhost:4000/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
-          "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/annotation/obj9.json",
+          "@id": "http://localhost:4000/img/derivatives/iiif/annotation/obj9.json",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj9/full/full/0/default.jpg",
+            "@id": "http://localhost:4000/img/derivatives/iiif/images/obj9/full/full/0/default.jpg",
             "@type": "dcterms:Image",
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://localhost:4000/wax-site/img/derivatives/iiif/images/obj9",
+              "@id": "http://localhost:4000/img/derivatives/iiif/images/obj9",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
             "width": 320,
             "height": 500
           },
-          "on": "http://localhost:4000/wax-site/img/derivatives/iiif/canvas/obj9.json"
+          "on": "http://localhost:4000/img/derivatives/iiif/canvas/obj9.json"
         }
       ]
     }
