@@ -121,7 +121,6 @@ GEM
       rake
       safe_yaml
       wax_iiif (~> 0.2)
-    webrick (1.8.1)
     yell (2.2.2)
     zeitwerk (2.6.13)
 
@@ -130,14 +129,9 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  http_parser.rb
-  jekyll (= 4.1.1)
-  kramdown-parser-gfm
-  listen (~> 3.7)
+  jekyll
   rake
-  tzinfo-data
-  wax_tasks (~> 1.1, >= 1.1.5)
-  webrick (~> 1.7)
+  wax_tasks
 
 BUNDLED WITH
    2.2.32

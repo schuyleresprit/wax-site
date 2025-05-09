@@ -5,9 +5,9 @@
     "artist": "Jamaica Kincaid",
     "_date": "1983",
     "location": "Antigua",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj1",
+    "permalink": "/items/obj1",
     "lunr_id": 0
   },
   {
@@ -16,9 +16,9 @@
     "artist": "Aime Cesaire",
     "_date": "1977",
     "location": "Martinique",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj10",
+    "permalink": "/items/obj10",
     "lunr_id": 1
   },
   {
@@ -27,9 +27,9 @@
     "artist": "Edwidge Danticat",
     "_date": "1994",
     "location": "Haiti",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj2",
+    "permalink": "/items/obj2",
     "lunr_id": 2
   },
   {
@@ -38,9 +38,9 @@
     "artist": "Earl Lovelace",
     "_date": "1979",
     "location": "Trinidad",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj3",
+    "permalink": "/items/obj3",
     "lunr_id": 3
   },
   {
@@ -49,9 +49,9 @@
     "artist": "Michelle Cliff",
     "_date": "1983",
     "location": "Jamaica",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj4",
+    "permalink": "/items/obj4",
     "lunr_id": 4
   },
   {
@@ -60,9 +60,9 @@
     "artist": "Jean Rhys",
     "_date": "1966",
     "location": "Dominica",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj5",
+    "permalink": "/items/obj5",
     "lunr_id": 5
   },
   {
@@ -71,9 +71,9 @@
     "artist": "Maryse Condé",
     "_date": "1987",
     "location": "Guadeloupe",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj6",
+    "permalink": "/items/obj6",
     "lunr_id": 6
   },
   {
@@ -82,9 +82,9 @@
     "artist": "Merle Collins",
     "_date": "1987",
     "location": "Grenada",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj7",
+    "permalink": "/items/obj7",
     "lunr_id": 7
   },
   {
@@ -93,9 +93,9 @@
     "artist": "George Lamming",
     "_date": "1979",
     "location": "Barbados",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj8",
+    "permalink": "/items/obj8",
     "lunr_id": 8
   },
   {
@@ -104,9 +104,9 @@
     "artist": "Derek Walcott",
     "_date": "1970",
     "location": "St Lucia",
-    "collection": "caribbeanbooksexhibit",
+    "collection": "items",
     "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
-    "permalink": "/caribbeanbooksexhibit/obj9",
+    "permalink": "/items/obj9",
     "lunr_id": 9
   }
 ]
